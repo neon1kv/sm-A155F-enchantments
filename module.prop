@@ -1,0 +1,7 @@
+id=sm_a155f_enchantments
+name=sm-A155F-enchantments
+version=v1.1
+versionCode=1
+author=neon1kv
+description=Unlocks hidden features like Smooth Scroll, Native Screen Recorder, and Enhanced CPU Responsiveness for Samsung A15
+updateJson=https://raw.githubusercontent.com/neon1kv/sm-A155F-enchantments/main/update.json
