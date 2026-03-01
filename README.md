@@ -10,6 +10,7 @@
 * **Screen Recorder Unlock** — Full-on native screen recording. (Lines 122, 124)
 * **Advanced Screenshot Edit** (Line 123)
 * **Smooth Scroll** (Line 125)
+* **Disable Samsung ads** (Line 217)
 
 ---
 
