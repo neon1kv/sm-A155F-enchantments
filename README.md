@@ -1,6 +1,6 @@
 # sm-A155F-enchantments
 
-**This Magisk module tweaks `floating_feature.xml` to unlock the hided features**
+**This Magisk module tweaks `floating_feature.xml` to unlock the hided features. Android 14**
 
 ---
 
